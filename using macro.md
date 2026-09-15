@@ -514,7 +514,7 @@ LibreLane กำหนด `__pnr__` ระหว่าง lint/synthesis ทำ�
 
 ---
 
-## 22. คำสั่งสรุป
+## 22. สรุปคำสั่ง
 
 ```bash
 librelane --version
